@@ -1,6 +1,6 @@
-- Họ và tên:  Nguyễn Ngọc Nam  
-- MSHV: 250101094 
-- Lớp: CS2205.JAN2026 
-- Đề tài(tiếng Việt): NÂNG CAO KHẢ NĂNG SUY LUẬN KHÔNG GIAN CỦA MÔ HÌNH NGÔN NGỮ - THỊ GIÁC TRÊN KỆ HÀNG BÁN LẺ THÔNG QUA ĐỒ THỊ NGỮ CẢNH
-- Đề tài(tiếng Anh): ENHANCING SPATIAL REASONING OF VISION-LANGUAGE MODELS ON RETAIL SHELVES VIA SCENE GRAPH
-- GVHD: PGS.TS.Lê Đình Duy
+- **Họ và tên:**  Nguyễn Ngọc Nam  
+- **MSHV:** 250101094 
+- **Lớp:** CS2205.JAN2026 
+- **Đề tài(tiếng Việt):** NÂNG CAO KHẢ NĂNG SUY LUẬN KHÔNG GIAN CỦA MÔ HÌNH NGÔN NGỮ - THỊ GIÁC TRÊN KỆ HÀNG BÁN LẺ THÔNG QUA ĐỒ THỊ NGỮ CẢNH
+- **Đề tài(tiếng Anh):** ENHANCING SPATIAL REASONING OF VISION-LANGUAGE MODELS ON RETAIL SHELVES VIA SCENE GRAPH
+- **GVHD:** PGS.TS.Lê Đình Duy
